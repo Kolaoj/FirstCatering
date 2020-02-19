@@ -1,0 +1,15 @@
+C:\Users\KolaOj\source\repos\FirstCatering.API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\KolaOj\source\repos\FirstCatering.API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\KolaOj\source\repos\FirstCatering.API\bin\Debug\netcoreapp2.1\FirstCatering.API.deps.json
+C:\Users\KolaOj\source\repos\FirstCatering.API\bin\Debug\netcoreapp2.1\FirstCatering.API.runtimeconfig.json
+C:\Users\KolaOj\source\repos\FirstCatering.API\bin\Debug\netcoreapp2.1\FirstCatering.API.runtimeconfig.dev.json
+C:\Users\KolaOj\source\repos\FirstCatering.API\bin\Debug\netcoreapp2.1\FirstCatering.API.dll
+C:\Users\KolaOj\source\repos\FirstCatering.API\bin\Debug\netcoreapp2.1\FirstCatering.API.pdb
+C:\Users\KolaOj\source\repos\FirstCatering.API\obj\Debug\netcoreapp2.1\FirstCatering.API.csprojAssemblyReference.cache
+C:\Users\KolaOj\source\repos\FirstCatering.API\obj\Debug\netcoreapp2.1\FirstCatering.API.RazorAssemblyInfo.cache
+C:\Users\KolaOj\source\repos\FirstCatering.API\obj\Debug\netcoreapp2.1\FirstCatering.API.RazorAssemblyInfo.cs
+C:\Users\KolaOj\source\repos\FirstCatering.API\obj\Debug\netcoreapp2.1\FirstCatering.API.AssemblyInfoInputs.cache
+C:\Users\KolaOj\source\repos\FirstCatering.API\obj\Debug\netcoreapp2.1\FirstCatering.API.AssemblyInfo.cs
+C:\Users\KolaOj\source\repos\FirstCatering.API\obj\Debug\netcoreapp2.1\FirstCatering.API.RazorTargetAssemblyInfo.cache
+C:\Users\KolaOj\source\repos\FirstCatering.API\obj\Debug\netcoreapp2.1\FirstCatering.API.dll
+C:\Users\KolaOj\source\repos\FirstCatering.API\obj\Debug\netcoreapp2.1\FirstCatering.API.pdb
